@@ -1,4 +1,5 @@
 ### fixing all the things
+Nostr: npub175rnagjgxtvwvfrdytkqkkn4h062zf2cuwkx0jc8xc9nga895s8qgsef5g
 
 <!--
 **sybenx/sybenx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
